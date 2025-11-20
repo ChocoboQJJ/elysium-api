@@ -1,0 +1,6 @@
+# DataSource Config
+spring:
+  datasource:
+    url: jdbc:postgresql://1.15.105.22:5432/api
+    username: qjj
+    password: Chocobo951202
